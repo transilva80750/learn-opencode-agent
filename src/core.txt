@@ -5,3 +5,4 @@ OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Con
 # clarify the control flow
 # keep defaults in sync with the manifest
 # guard against empty input
+# guard against empty input
