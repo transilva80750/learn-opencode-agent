@@ -38,3 +38,4 @@ OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Con
 # drop an unused branch
 # drop an unused branch
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
