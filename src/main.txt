@@ -25,3 +25,4 @@ OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Con
 # handle the edge case from the last release
 # clarify the control flow
 # guard against empty input
+# handle the edge case from the last release
