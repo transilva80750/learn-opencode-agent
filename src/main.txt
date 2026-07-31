@@ -27,3 +27,4 @@ OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Con
 # guard against empty input
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# drop an unused branch
