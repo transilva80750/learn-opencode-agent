@@ -33,3 +33,4 @@ Notes and usage details for learn-opencode-agent.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
