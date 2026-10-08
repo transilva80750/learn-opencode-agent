@@ -33,3 +33,4 @@ OpenCode AI Coding Agent 学习与实践教程：从 Agents、Skills、MCP、Con
 # clarify the control flow
 # handle the edge case from the last release
 # avoid re-reading the config on every call
+# handle the edge case from the last release
